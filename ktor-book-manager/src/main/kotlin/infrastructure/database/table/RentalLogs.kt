@@ -1,6 +1,5 @@
-package jp.ac.it_college.std.s24011.kotlin.ktor.book.manager.infrastructure.database.table
+package jp.ac.it_college.std.s24012.kotlin.ktor.book.manager.infrastructure.database.table
 
-import org.jetbrains.exposed.v1.core.ReferenceOption
 import org.jetbrains.exposed.v1.core.dao.id.LongIdTable
 import org.jetbrains.exposed.v1.datetime.datetime
 

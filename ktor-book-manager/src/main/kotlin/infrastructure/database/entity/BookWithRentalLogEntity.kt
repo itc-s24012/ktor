@@ -1,7 +1,7 @@
-package jp.ac.it_college.std.s24011.kotlin.ktor.book.manager.infrastructure.database.entity
+package jp.ac.it_college.std.s24012.kotlin.ktor.book.manager.infrastructure.database.entity
 
-import jp.ac.it_college.std.s24011.kotlin.ktor.book.manager.infrastructure.database.table.Books
-import jp.ac.it_college.std.s24011.kotlin.ktor.book.manager.infrastructure.database.table.RentalLogs
+import jp.ac.it_college.std.s24012.kotlin.ktor.book.manager.infrastructure.database.table.Books
+import jp.ac.it_college.std.s24012.kotlin.ktor.book.manager.infrastructure.database.table.RentalLogs
 import org.jetbrains.exposed.v1.core.dao.id.EntityID
 import org.jetbrains.exposed.v1.dao.LongEntity
 import org.jetbrains.exposed.v1.dao.LongEntityClass

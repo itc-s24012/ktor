@@ -4,7 +4,7 @@ plugins {
     alias(libs.plugins.kotlin.plugin.serialization)
 }
 
-group = "jp.ac.it_college.std.s24011.kotlin.ktor.book.manager"
+group = "jp.ac.it_college.std.s24012.kotlin.ktor.book.manager"
 version = "0.0.1"
 
 application {

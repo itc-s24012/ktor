@@ -1,7 +1,7 @@
-package jp.ac.it_college.std.s24011.kotlin.ktor.book.manager
+package jp.ac.it_college.std.s24012.kotlin.ktor.book.manager
 
 import io.ktor.server.application.*
-import jp.ac.it_college.std.s24011.kotlin.ktor.book.manager.plugins.configureDatabase
+import jp.ac.it_college.std.s24012.kotlin.ktor.book.manager.plugins.configureDatabase
 
 fun main(args: Array<String>) {
     io.ktor.server.netty.EngineMain.main(args)
